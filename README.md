@@ -14,7 +14,7 @@
   <br><br>
  🤔 Check Out my <a href="https://drive.google.com/file/d/1u2bfn5EBlmPMoVO6BoAtYFKIMCCFdQez/view?usp=sharing">Resume</a>
   <br><br>
- 👨‍💻  Know more about me <a href="https://github.com/Sagir-hussain12">Portfolio</a>
+ 👨‍💻  Know more about me <a href="https://sagirhussain-portfolio.netlify.app/">Portfolio</a>
   <br><br>
  😄 All of my projects are available at <a href="https://github.com/Sagir-hussain12?tab=repositories">My Github Repositories</a>
   <br><br>
