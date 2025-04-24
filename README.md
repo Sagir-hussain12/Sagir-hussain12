@@ -74,17 +74,22 @@
 <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=10snamrata&label=Profile%20views&color=0e75b6&style=flat" alt="Namratasingh" /> </p>
 <hr>
-<h2 align="center">📊 My GitHub Statastics </h2>
-
 <h2 align="center">📊 My GitHub Statistics</h2>
 
-<div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagir-hussain12&show_icons=true&locale=en&layout=compact" alt="sagir-hussain12" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sagir-hussain12&show_icons=true&locale=en" alt="sagir-hussain12" />
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=sagir-hussain12&show_icons=true&locale=en" alt="sagir-hussain12" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sagir-hussain12&show_icons=true&locale=en&layout=compact" alt="sagir-hussain12" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagir-hussain12&theme=dark" alt="sagir-hussain12" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagir-hussain12&theme=dark" alt="sagir-hussain12" />
 </div>
+
 
 </div>
