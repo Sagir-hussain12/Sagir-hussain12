@@ -10,7 +10,7 @@
 <h2 align="center">💫  About Me </h2>
 
 
- 🌱 I’m currently learning **React , MERN **.
+ 🌱 I’m currently learning **React, MERN**.
   <br><br>
  🤔 Check Out my <a href="https://drive.google.com/file/d/1u2bfn5EBlmPMoVO6BoAtYFKIMCCFdQez/view?usp=sharing">Resume</a>
   <br><br>
@@ -18,7 +18,7 @@
   <br><br>
  😄 All of my projects are available at <a href="https://github.com/Sagir-hussain12?tab=repositories">My Github Repositories</a>
   <br><br>
- 💬 Ask me about **HTML, CSS, JavaScript, SQL, Node.js, Express.js, Java, MongoDB**
+ 💬 Ask me about **HTML, CSS, JavaScript, React ,Tailwind, Node.js, Express.js, MongoDB**
   <br><br>
  ⚡ How to reach me sagiransary18@gmail.com
   
@@ -33,7 +33,7 @@
 <h2 align="center">🚀 Languages and Tools: </h2>
  
 <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Tech Stack..</h4>
- <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pkbgoupmgjv98otfuzjzz3olilr56muin6aigv8q&rid=giphy.gif&ct=g">
+ <img align="right" alt="Coding" width="400" height="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDlkazI2NjlpYWI4eWc1MWo2ZDF1eDQ4eW1ya2d1bjJjc2V3ZDF0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VLbpGh5yZyEPm0qJVQ/giphy.gif">
 <p>
  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
@@ -47,8 +47,8 @@
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/mui-%231572B6.svg?style=for-the-badge&logo=mui&logoColor=white" />&nbsp;&nbsp;
  <br/>
- <img src="https://img.shields.io/badge/Mongoose-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="Mongoose"/>
-  <img src="https://img.shields.io/badge/rest api-%23323330.svg?style=for-the-badge&logo=express&logoColor=white" align="center" alt="rest api"/>
+ <img src="https://img.shields.io/badge/Mongoose-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="Mongoose"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/rest api-%23323330.svg?style=for-the-badge&logo=express&logoColor=white" align="center" alt="rest api"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" />&nbsp;&nbsp;
 
 <br/>
@@ -73,7 +73,7 @@
 <hr>
 </div>
 <br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=10snamrata&label=Profile%20views&color=0e75b6&style=flat" alt="Namratasingh" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Sagir-hussain12&label=Profile%20views&color=0e75b6&style=flat" alt="Sagir Hussain" /> </p>
 <hr>
 <h2 align="center">📊 My GitHub Statistics</h2>
 
