@@ -78,8 +78,8 @@
 
  <div align ="center">
   <tr>
-<td><img align="center" src="https://github-readme-stats.vercel.app/api?username=sagir-hussain12&show_icons=true&locale=en" alt="sagir-hussain12" />
-<td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagir-hussain12&show_icons=true&locale=en&layout=compact" alt="sagir-hussain12" /></td>
+    <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagir-hussain12&show_icons=true&locale=en&layout=compact" alt="sagir-hussain12" />
+<td><img align="center" src="https://github-readme-stats.vercel.app/api?username=sagir-hussain12&show_icons=true&locale=en" alt="sagir-hussain12" /></td>
   </tr>
   </div>	
  
