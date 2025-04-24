@@ -76,15 +76,15 @@
 <hr>
 <h2 align="center">📊 My GitHub Statastics </h2>
 
- <div align ="center">
-  <tr>
-<td><img align="center" src="https://github-readme-stats.vercel.app/api?username=sagir-hussain12&show_icons=true&locale=en" alt="sagir-hussain12" />
-    <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagir-hussain12&show_icons=true&locale=en&layout=compact" alt="sagir-hussain12" /> </td>
-  </tr>
-  </div>	
- 
+<h2 align="center">📊 My GitHub Statistics</h2>
+
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagir-hussain12&" alt="sagir-hussain12" /></p> 
-</p>
-  </div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagir-hussain12&show_icons=true&locale=en&layout=compact" alt="sagir-hussain12" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sagir-hussain12&show_icons=true&locale=en" alt="sagir-hussain12" />
+</div>
+
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagir-hussain12&theme=dark" alt="sagir-hussain12" />
+</div>
+
 </div>
